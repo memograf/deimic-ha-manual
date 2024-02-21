@@ -3,7 +3,7 @@
 1. Zainstalowane poniższe aplikacje (zalecany system operacyjny Windows)
    * [MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer/releases)
    * [DEIMIC Configurator](https://www.deimic.pl/wsparcie,do-pobrania.html)
-1. Skonfigurowana instancja Home Assistant w sieci lokalnej. Instrukcje można znaleźć [na stronie projektu](https://www.home-assistant.io/installation/). Najprostszym rozwiązaniem jest [instalacja na Raspbery Pi](https://www.home-assistant.io/installation/raspberrypi), co wymaga posiadania Raspberry Pi i akcesoriów (wszystko opisane w załączonym linku).
+1. Skonfigurowana instancja Home Assistant w sieci lokalnej. Instrukcje można znaleźć [na stronie projektu](https://www.home-assistant.io/installation/).
 
 ## Wstęp
 Obecnie integracja jest możliwa za pośrednictwem protokołu MQTT. Moduł Deimic Master ogłasza każdą zmianę stanu w dedykowanym temacie, który może być subskrybowany przez Home Assistant. Komunikacja działa w obie strony, więc Home Assistant może ustawić stan urządzenia na Master (włączyć / wyłączyć światło, otworzyć / zamknąć zasłonę itp.)
