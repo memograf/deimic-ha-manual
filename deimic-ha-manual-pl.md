@@ -116,3 +116,7 @@ mqtt:
       payload_on: "SHORT:1"
       payload_off: "SHORT:0"
 ```
+
+## Krok 4
+Rozwinięciem instalacji może być integracja Home Brdige na iOS.
+[HomeKit Bridge](https://www.home-assistant.io/integrations/homekit/)
