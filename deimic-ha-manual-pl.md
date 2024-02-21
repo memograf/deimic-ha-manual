@@ -1,6 +1,6 @@
 ## Wymagane
 1. Moduł Deimic Master v3
-1. Zainstalowane poniższe aplikacje
+1. Zainstalowane poniższe aplikacje (zalecany system operacyjny Windows)
    * [MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer/releases)
    * [DEIMIC Configurator](https://www.deimic.pl/wsparcie,do-pobrania.html)
 1. Skonfigurowana instancja Home Assistant w sieci lokalnej. Instrukcje można znaleźć [na stronie projektu](https://www.home-assistant.io/installation/). Najprostszym rozwiązaniem jest [instalacja na Raspbery Pi](https://www.home-assistant.io/installation/raspberrypi), co wymaga posiadania Raspberry Pi i akcesoriów (wszystko opisane w załączonym linku).
