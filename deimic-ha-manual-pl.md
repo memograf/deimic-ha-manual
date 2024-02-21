@@ -16,7 +16,7 @@ Integracja jest możliwa za pośrednictwem protokołu MQTT. Moduł Deimic Master
 1. Następnie należy wyszukać "MQTT, wybrać integrację z listy, a w następnym okienku wybrać "MQTT" jeszcze raz. 
     ![Home Assistant - settings - add MQTT](/assets/image-2.png)
     ![Home Assistant - settings - add MQTT](/assets/image-3.png)
-1. W następnym oknie należy podać adres IP modułu Deimic Master (1), numer portu, jeśli jest inny, niż domyślny (2) oraz potwierdzić opcje (3).
+1. W następnym oknie należy wpisać adres IP modułu Deimic Master (1) domyślny to: 192.168.1.99, numer portu domyślny dla MQTT to: 1883 (2) oraz zatwierdzić konfigurację (3).
     ![Home Assistant - configure MQTT](/assets/image-5.png)
 
 ## Krok 2 - instalacja Studio Code Server
